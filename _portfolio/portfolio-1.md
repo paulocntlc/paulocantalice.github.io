@@ -1,7 +1,7 @@
 ---
 title: "Blog of Boitempo"
 excerpt: "Here you can see some translations of texts I did for the Boitempo publishing house"
-collection: portfolioo
+collection: portfolio
 ---
 
 [A gentrificação de Gaza](https://blogdaboitempo.com.br/2024/01/19/a-gentrificacao-de-gaza/)
