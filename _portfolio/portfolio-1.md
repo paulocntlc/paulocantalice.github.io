@@ -1,7 +1,8 @@
 ---
 title: "Blog of Boitempo"
-excerpt: "Here you can see some translations of texts I did for the Boitempo publishing house"
+excerpt: "Here you can see some translations I did for the Boitempo publishing house."
 collection: portfolio
+
 ---
 
 
