@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Paulo, a Brazilian editor and translator with a passion for turning complexity into clarity. With a background in languages and years of experience in writing and editing, I am looking for an opportunity as a tech writer. I approach every project with precision, empathy, and a keen eye for detail.
+Hi! I’m Paulo, a Brazilian editor and translator with a passion for turning complexity into clarity. With a background in languages and years of experience in writing and editing, I am looking for an opportunity as a tech writer. I approach every project with precision, empathy and a keen eye for detail.
 
 A not so brief history in IT
 ======
