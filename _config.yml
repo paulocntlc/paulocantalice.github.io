@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Paulo.jpg"
   name             : "Paulo Cantalice"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "I'm an aspiring tech writer with a strong background in communication and linguistics."
