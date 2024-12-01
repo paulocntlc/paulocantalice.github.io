@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "SP-BR"
+title                    : "Paulo Cantalice's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Paulo Cantalice"
+description              : &description "Minha página, teste"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "He/Him" # example: "she/her"  
+  bio              : "I'm an aspiring tech writer with a strong background in journalism and linguistics, eager to translate complex concepts into accessible and engaging content. My academic and professional experiences have honed my skills in writing, editing, and adapting materials for diverse audiences. While new to the field of technical writing, I bring a commitment to clarity and precision, along with a passion for learning and collaboration. I’m excited to contribute to projects where I can bridge the gap between technical knowledge and user needs. On this GitHub, you’ll find examples of my writing, personal projects, and documentation as I continue to develop my expertise in the field."
+  location         : "São Paulo, Brazil"
+  employer         : "ACMA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "paulocantalice@aol.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
