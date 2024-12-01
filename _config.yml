@@ -27,16 +27,14 @@ author:
   bio              : "I'm an aspiring tech writer with a strong background in communication and linguistics."
   location         : "São Paulo, Brazil"
   employer         : "ACMA"
-  email            : "paulocantalice@aol.com" <br> [Academia]("https://ufmg.academia.edu/PauloCantalice")
-  Academia         : "https://ufmg.academia.edu/PauloCantalice"
+  email            : "paulocantalice@aol.com"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://ufmg.academia.edu/PauloCantalice"
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  researchgate     : # URL
+  researchgate     : "https://ufmg.academia.edu/PauloCantalice"
   scopus           : # URL
-  Academia         : "https://ufmg.academia.edu/PauloCantalice"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
