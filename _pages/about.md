@@ -16,4 +16,4 @@ My involvement with computing began early, but it was only at the end of my unde
 
 Future goals
 ======
-I have also published other [academic texts](https://ufmg.academia.edu/PauloCantalice) and this is a path that interests me a lot. One of my goals is to continue in academia studying the links between computing and natural language. Both areas have a lot to gain from each other and it is necessary to understand the opportunities that they present together.
+I have also published other [academic texts](https://ufmg.academia.edu/PauloCantalice), but in the poetry field. Now, however, I want to continue studying the links between computing and natural language in academia. Both areas have a lot to gain from each other and it is necessary to understand the opportunities that they present together.
