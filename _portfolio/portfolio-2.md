@@ -1,0 +1,14 @@
+---
+title: "Boitempo's YouTube Channel"
+excerpt: "Here you can see some subtitles I did for the Boitempo' YouTube Channel."
+collection: portfolio
+---
+
+
+Michael Heinrich about the biography of Karl Marx, in six parts: [I](https://www.youtube.com/watch?v=SOFeglZHJ1g&t=6s), [II](https://www.youtube.com/watch?v=OR_xsQDSr2c), [III](https://www.youtube.com/watch?v=jRcLmLZx3pc), [IV](https://www.youtube.com/watch?v=79W7OgUDdHs), [V](https://www.youtube.com/watch?v=1ZuIA0WE30g), [VI](https://www.youtube.com/watch?v=Q4ml5K2uYa8)
+
+Kevin Anderson on his book 'Marx nas margens', in six parts: I, II, III, IV, V, VI
+
+Judith Butler and the relationship between capitalism and family
+
+Silvia Federeici, on a trip to Brazil, in four parts: I, II, III, IV
